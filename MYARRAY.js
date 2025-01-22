@@ -40,7 +40,7 @@ class MYarray
 }
 const arr1=new MYarray();
 arr1.push(5);
-//debugger;
+debugger;
 arr1.push(68);
 arr1.push(973);
 arr1.push(453);
